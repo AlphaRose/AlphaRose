@@ -1,6 +1,6 @@
 ### Hi, I'm Rose 👋🏼
 
-**`Systems Admin`** **`Test Engineer`** **`AI/ML Enthusiast`**
+**`Systems Admin`** **`Test Engineer`** **`AI/ML Enthusiast`** **`Mainframe Lover`**
 
 <p>
 I’m a systems thinker who builds reliable, well-designed technology meant to last. I care about clarity, resilience, and thoughtful engineering—from modern software to enterprise and mainframe systems.
@@ -20,5 +20,9 @@ No matter the context, I’m driven by a desire to help. I enjoy supporting othe
 ![AWS](https://img.shields.io/badge/aws-%23005959.svg?style=for-the-badge&logo=amazon-aws&logoColor=grey)
 ![Git](https://img.shields.io/badge/git-%23004c4c.svg?style=for-the-badge&logo=git&logoColor=orange)
 
+<br>
 
-> Built and maintained by Ebony Rose Martin https://thatone.dev
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alpharose&theme=transparent&count_private=true&border_radius=10&locale=en" alt="alpharose's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?
+</div>
