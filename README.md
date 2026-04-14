@@ -1,4 +1,4 @@
-### Hi, I'm Rose 👋🏼
+### [AlphaRose@GitHub ~] $
 
 **`Systems Admin`** **`Test Engineer`** **`AI/ML Enthusiast`** **`Mainframe Lover`**
 
@@ -12,7 +12,6 @@ Outside of my professional work, curiosity remains a constant thread. I spend my
 No matter the context, I’m driven by a desire to help. I enjoy supporting others as they navigate complexity, solve meaningful problems, and gain confidence in the tools and systems they work with.
 </p>
 
-![Java](https://img.shields.io/badge/java-%2366B2B2.svg?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Python](https://img.shields.io/badge/python-%234cAAAA.svg?style=for-the-badge&logo=python&logoColor=gold)
 ![Shell](https://img.shields.io/badge/Bash/Shell-%23339999.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![R](https://img.shields.io/badge/r-%23008080.svg?style=for-the-badge&logo=r&logoColor=darkblue)
